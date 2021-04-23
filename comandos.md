@@ -52,3 +52,22 @@ $ arch
 <img src="imagens/virt-manager9.png">
 <img src="imagens/virt-manager10.png">
 <img src="imagens/virt-manager11.png">
+
+## Criar Snapshot no kvm
+
+#virsh -h (Pra ter ajuda comando)
+
+#virsh -h | grep snapshot (para ter ajuda sobre opções de snapshot)
+
+#virsh list (Pra listar as máquinas virtuais em execução)
+
+#virsh snapshot create 'Dominio'  ( conforme listado do virsh list)
+
+#virsh snapshot-list 'Dominio'  (para mostrar os snapshots)
+
+#virsh snapshot-create-as 'Dominio' 'Nome a ser dado' (Para criar um snapshot com um nome específico)
+
+#virsh snapshot-revert 'Dominio' 'Snapshot' (para reverter um snapshot)
+
+## Adicionar espaço de armazenamento
+
