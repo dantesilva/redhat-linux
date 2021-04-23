@@ -1,5 +1,5 @@
 
-## Saber arquitetura do sistema
+## Saber Arquitetura do Sistema
 $ arch
 
 ## Saber se tem vmx
@@ -19,6 +19,7 @@ $ arch
 #dnf groulist
 
 ### Instalar grupo Virtualização
+
 #dnf groupinstall -y "Virtualization Host"
 
 #dnf groupinstall -y "Virtualization Client"
@@ -36,18 +37,18 @@ $ arch
  '-X ' -> permite visualizar aplicações gráficas remotamente.
 
 
-## Acessar a estação e rodar o virtmanager 
+## Acessar a estação e rodar o virt-manager 
 
 #virt-manager &
 
-<img src="virt-manager1.png">
-<img src="virt-manager2.png">
-<img src="virt-manager3.png">
-<img src="virt-manager4.png">
-<img src="virt-manager5.png">
-<img src="virt-manager6.png">
-<img src="virt-manager7.png">
-<img src="virt-manager8.png">
-<img src="virt-manager9.png">
-<img src="virt-manager10.png">
-<img src="virt-manager11.png">
+<img src="imagens/virt-manager1.png">
+<img src="imagens/virt-manager2.png">
+<img src="imagens/virt-manager3.png">
+<img src="imagens/virt-manager4.png">
+<img src="imagens/virt-manager5.png">
+<img src="imagens/virt-manager6.png">
+<img src="imagens/virt-manager7.png">
+<img src="imagens/virt-manager8.png">
+<img src="imagens/virt-manager9.png">
+<img src="imagens/virt-manager10.png">
+<img src="imagens/virt-manager11.png">
