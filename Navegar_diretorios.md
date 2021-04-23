@@ -1,9 +1,9 @@
 
 # Diretórios e navegação (Comandos básicos)
 
-pwd -> Print Working Directory.
+pwd -> Print Working Directory (Mostra diretório em que se encontra)
 
-cd -> Change directory.
+cd -> Change directory. (Navega entre os diretŕios. Exemplo: cd /diretorio1 ,para acessar o diretório1)
 
 . -> Diretório atual
 
