@@ -1,5 +1,5 @@
 
-## Diretórios e navegação (Comandos básicos)
+# Diretórios e navegação (Comandos básicos)
 
 pwd -> Print Working Directory.
 
