@@ -1,5 +1,5 @@
 
-## Saber arquitetura i sistema
+## Saber arquitetura do sistema
 $ arch
 
 ## Saber se tem vmx
@@ -14,7 +14,7 @@ $ arch
 
 ## Instalar virtualização.
 
-### Pesquisar Grupos
+### Pesquisar Grupos de instalação
 
 #dnf groulist
 
