@@ -1,21 +1,21 @@
 
 # Diretórios e navegação (Comandos básicos)
 
-pwd -> Print Working Directory (Mostra diretório em que se encontra)
+pwd -> Print Working Directory (Mostra diretório em que se encontra).
 
-cd -> Change directory. (Navega entre os diretŕios. Exemplo: cd /diretorio1 ,para acessar o diretório1)
+cd -> Change directory. (Navega entre os diretŕios. Exemplo: cd /diretorio1 ,para acessar o diretório1).
 
-. -> Diretório atual
+. -> Diretório atual.
 
-.. -> Diretório Raiz
+.. -> Diretório Raiz.
 
-touch -> Cria arquivo vazio.
+touch -> Cria arquivo vazio. (Exemplo: touch arquivo1 - para criar arquivo em branco com nome 'arquivo1')
 
 ## Caminho absoluto
 
 Sempre começa com o / , indepenente de onde esteja.
 
-(Recomendado para evitar erros)
+(Recomendado para evitar erros).
 
 ## Caminho relativo
 
@@ -27,6 +27,6 @@ Contém acesso apenas do diretório atual ao arquivo desejado.
 
 ## Voltar ao diretório padrão e ultimo diretorio
 
-$cd ~ (Voltar ao diretório padrão)
+$cd ~ (Voltar ao diretório padrão).
 
-$cd - (Voltamos ao ultimo diretório que estávamos)
+$cd - (Voltamos ao ultimo diretório que estávamos).
