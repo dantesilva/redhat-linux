@@ -1,4 +1,4 @@
-# Entendedo o Shell
+# Entendedo brevemente o Shell
 
 ## Shel
 
@@ -15,11 +15,11 @@ Login mode -> Recomendado para investigar problemas com o  usuário;
 
 #su - usuario (Entrar em login mode).
 
-#su usuario (sem o hifen, para entrar no modo no login mode)
+#su usuario (sem o hífen, para entrar no modo no login mode).
 
 ## Verificar váriavés do ambiente
 
-#env -> Mostra todas as variáveis de ambiente de usuário
+#env -> Mostra todas as variáveis de ambiente de usuário.
 
 ## Adicionar váriavel de usuario
 
