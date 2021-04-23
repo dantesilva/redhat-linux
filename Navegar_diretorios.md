@@ -13,17 +13,13 @@ touch -> Cria arquivo vazio. (Exemplo: touch arquivo1 - para criar arquivo em br
 
 ## Caminho absoluto
 
-Sempre começa com o / , indepenente de onde esteja.
-
-(Recomendado para evitar erros).
+Sempre começa com o / , indepenente de onde esteja. (Recomendado para evitar erros).
 
 ## Caminho relativo
 
 Relativo ao diretório mostrado pelo 'pwd'.
 
-Contém acesso apenas do diretório atual ao arquivo desejado.
-
-(Não recomendado. Pode ocorrer erros).
+Contém acesso apenas do diretório atual ao arquivo desejado. (Não recomendado. Pode ocorrer erros).
 
 ## Voltar ao diretório padrão e ultimo diretorio
 
